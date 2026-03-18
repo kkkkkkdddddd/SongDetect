@@ -236,9 +236,3 @@ pip install numpy pandas matplotlib seaborn librosa tqdm scikit-learn scipy spki
 - Large inter-speaker variability (pitch range, rhythm, style) remains challenging.  
 - Future directions: augmentation, stronger time-frequency representations, end-to-end audio models, and more robust fusion strategies.
 
----
-
-## 10) Author / 作者
-
-- Student: Wang Yuekun  
-- Student ID: 231188492
